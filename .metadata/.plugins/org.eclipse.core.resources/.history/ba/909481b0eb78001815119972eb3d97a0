@@ -1,0 +1,10 @@
+
+public class HelloWorld {
+	public static void main(String[]args)throws IOExceptin{
+		BufferedReader br =new BufferedReader(new InputStreamReader
+		System.out.println(HelloWorld);
+		String t =br.readLine();
+		System
+	}
+
+}
