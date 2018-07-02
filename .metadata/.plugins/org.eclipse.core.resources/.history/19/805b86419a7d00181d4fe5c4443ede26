@@ -1,0 +1,12 @@
+
+
+public class Capsule{
+	private char[] name;
+
+	public static void main(String[] args){
+		
+		Capsule taro = new Capsule();
+		System.out.println(taro.name);
+
+	}
+}

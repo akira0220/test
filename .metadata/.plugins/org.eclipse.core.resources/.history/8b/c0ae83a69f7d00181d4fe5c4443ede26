@@ -10,7 +10,7 @@ public Person(String name,int age){
 }
 
 
-  public String getName(){
+  public String getName(){"taro".getName());
 
 
   return this.name;
@@ -19,7 +19,5 @@ public Person(String name,int age){
   public void setName(String name){
 	  this.name=name;
 
-	
-	  
 }
 }

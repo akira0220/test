@@ -15,9 +15,13 @@ public void run(){
    }
 
 	public void eat(){
-		System.out.println(this.name+"がドラ焼きを食べる");
+		System.out.println(this.name+"が食べる");
 	}
-}
+
+
+
+
+      }
 
 
 
